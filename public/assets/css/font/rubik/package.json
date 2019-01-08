@@ -1,0 +1,31 @@
+{
+  "_from": "rubik-font",
+  "_id": "rubik-font@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-sPLOryvmv5TNdrAdz543YXvodVN2xx8cNaat4bfTdKRSY5/HuqlmIIwn/U6YapyZX/5FWWfC+e6zIpCLaNCBqg==",
+  "_location": "/rubik-font",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rubik-font",
+    "name": "rubik-font",
+    "escapedName": "rubik-font",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rubik-font/-/rubik-font-0.0.3.tgz",
+  "_shasum": "2c5e110c5efa9cfedf503c3b00d3f2753ac5439a",
+  "_spec": "rubik-font",
+  "_where": "/Users/tony/Desktop/npm",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "<b>Specify in CSS</b>",
+  "name": "rubik-font",
+  "version": "0.0.3"
+}

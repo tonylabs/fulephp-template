@@ -1,0 +1,15 @@
+body.zh-cn
+{
+    font-family: "PingFang SC", Rubik, "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei";
+}
+
+body.zh-cn .section-intro > h1
+{
+    line-height: 1.4em;
+}
+
+article
+{
+    white-space: normal;
+    word-wrap: break-word;
+}
